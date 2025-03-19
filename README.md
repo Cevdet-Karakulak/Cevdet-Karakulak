@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cevdet-karakulak&show_icons=true&locale=en" alt="cevdet-karakulak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cevdet-karakulak&" alt="cevdet-karakulak" /></p>
