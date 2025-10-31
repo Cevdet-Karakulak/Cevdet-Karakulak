@@ -49,6 +49,18 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![ASP.NET Core 9.0](https://img.shields.io/badge/ASP.NET%20Core%209.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Google Gemini AI](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0A66C2?style=for-the-badge&logo=dotnet&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![AdminLTE](https://img.shields.io/badge/AdminLTE-007BFF?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Localization](https://img.shields.io/badge/Localization-FFD43B?style=for-the-badge&logo=googletranslate&logoColor=black)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![Admin Dashboard](https://img.shields.io/badge/Admin%20Dashboard-00C4CC?style=for-the-badge&logo=databricks&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cevdet-karakulak&show_icons=true&locale=en&layout=compact" alt="cevdet-karakulak" /></p>
 
