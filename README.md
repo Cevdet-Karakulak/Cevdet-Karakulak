@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [cevdetkarakulak.com](cevdetkarakulak.com)
+- 👨‍💻 All of my projects are available at Soon...
 
 - 📫 How to reach me **cevdetkarakulak_83@hotmail.com**
 
