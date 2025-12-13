@@ -1,4 +1,3 @@
-![MasterHead](https://resmim.net/cdn/2025/03/19/NKX7O1.jpg)
 ![](https://komarev.com/ghpvc/?username=Cevdet-Karakulak&color=blue)
 
 <div align="center">
